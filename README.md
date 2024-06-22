@@ -4,4 +4,4 @@
 
 Publish URL: https://personal-0qy6dzmr.outsystemscloud.com/QuestionManage/Login
 
-ダウンロードした.oapファイルも置いておきます。
+ダウンロードした.omlファイルも置いておきます。
